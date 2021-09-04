@@ -20,9 +20,9 @@ scanf("%d",&a);
      next=fib3;
    }
    if(fib3==a)
-     printf("\%d is a Fibonacci number and the previous 2 fibonacci numbers are: %d and %d",a,fib1,fib2);
+     printf("%d is a Fibonacci number and the previous 2 fibonacci numbers are: %d and %d",a,fib1,fib2);
    else
-     printf("\%d is not a Fibonacci number and the next fibonacci number larger than %d is %d ",a,a,next);
+     printf("%d is not a Fibonacci number and the next fibonacci number larger than %d is %d ",a,a,next);
  }
  return 0;
 }
