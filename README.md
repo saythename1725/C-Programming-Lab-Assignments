@@ -6,3 +6,4 @@
 #### Ques 4: Take an integer a as user input. Check a is an Fibonacci number or not. If it is a Fibonacci number, print the previous two Fibonacci numbers. If a is not Fibonacci, print the next Fibonacci number larger than a.
 #### Ques 5: Take an integer as user input. Write a program that prints the digits of the integer in reverse.
 #### Note: You can use C/ C++. Use tools only up to control structure to write the codes. As an example, do not use string to print the reverse of the input integer.
+##Lab Assignment-2
